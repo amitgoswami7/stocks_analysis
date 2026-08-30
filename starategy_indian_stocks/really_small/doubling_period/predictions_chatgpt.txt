@@ -1,0 +1,318 @@
+INDIA SMALL/MICRO-CAP 1-YEAR “DO NOT LOSE MONEY” SCREEN
+Date: 30 August 2026
+
+IMPORTANT DISCLAIMER
+This is a research watchlist, not a guarantee or personalised investment advice. A stock can fall 30–70% even when fundamentals look good. The user's highest-priority rule is capital preservation, so I have NOT treated “could double” as a certainty. I have also rejected several attractive names where one of the hard filters was not adequately satisfied.
+
+HARD FILTERS USED
+1. Indian equities only.
+2. Target market-cap position: outside India's top 1,000 companies by market cap.
+3. Small/micro-cap.
+4. Enough turnover to transact approximately Rs 1 lakh in one normal session.
+5. Prefer promoter accumulation, low/currently manageable retail ownership, and rising institutional participation.
+6. Prefer positive FCF or a credible path to positive FCF.
+7. Prefer high ROE/ROCE, reasonable valuation, and improving earnings.
+8. Avoid stocks that have already become a crowded narrative or have had a major recent run-up.
+9. Weekly/monthly chart must offer a reasonable entry zone; MACD and RSI are explicitly checked.
+10. Technology-disruption risk is avoided.
+
+MACRO BACKDROP
+India remains one of the fastest-growing major economies, but the near-term environment is not risk-free. A Reuters poll in late August 2026 estimated Q1 FY27 GDP growth at 7.1%, with growth expected to moderate further; oil above $90, geopolitical tensions and a weaker rupee are important risks. Reuters also reported that foreign investors had sold roughly Rs 2.4 trillion of Indian equities during 2026, while domestic SIP flows remained a major stabilising force. This argues for selective small-cap buying rather than indiscriminate small-cap exposure.
+
+Motilal Oswal Private Wealth's August 2026 strategy remained Neutral on equities overall but Overweight on mid- and small-caps, while ETMarkets quoted Green Portfolio's Divam Sharma saying that hidden gems can remain in small caps despite the greater volatility. Therefore the macro regime is supportive of carefully selected small caps, but not supportive of buying weak balance sheets simply because they are cheap.
+
+SOURCE: Reuters, 25–26 Aug 2026; Economic Times/Motilal Oswal, Aug 2026.
+
+CRITICAL RESULT OF THE SCREEN
+I could NOT honestly validate five stocks that simultaneously satisfy every hard rule, especially the combination of:
+- exact overall India market-cap rank >1,000,
+- promoter buying,
+- positive/rising DII,
+- positive FCF,
+- favourable weekly/monthly MACD,
+- no recent run-up,
+- sufficient liquidity,
+- and credible broker coverage.
+
+Because “should not lose money” is the most important rule, the list below is therefore a RANKED WATCHLIST, not five unconditional buys. Names with an unresolved hard filter are explicitly marked. Do not buy them merely because they appear on this list.
+
+TOP 5 WATCHLIST
+
+1) JYOTI RESINS & ADHESIVES LTD — BEST VALUE/TECHNICAL SETUP
+Ticker: JYOTIRES / BSE 514448
+Current price around Rs 880–900 (28 Aug 2026)
+Market cap approximately Rs 1,050–1,075 Cr.
+India market-cap rank: NOT independently verified from a current all-India ranking source; market cap places it in the required outside-top-1000 small-cap zone, but this exact rank must be verified before an actual purchase.
+
+WHY IT IS INTERESTING
+- Six-month price return was approximately 0%; one-year return only about +3%, so the stock has NOT been a recent momentum favourite.
+- 52-week range approximately Rs 830–911: it is close to the bottom of its 52-week range rather than near a blow-off high.
+- P/E about 16.4–16.9 and P/B about 3.9.
+- ROE approximately 27%; ROCE approximately 28–36% depending on data provider/period.
+- Debt/equity is effectively zero.
+- EV/EBITDA around 11–12x.
+- FY26 revenue grew about 10.8%, but profit declined 5.3%; Q1 FY27 revenue grew 16.8% YoY while PAT fell 32.4%. This is the key issue: the business is good, but the latest earnings were weak.
+- FY26 free cash flow was positive according to the cited ratio data.
+- Promoter holding rose from 50.83% in mid-2025 to 53.89% in Sep 2025 and 54.37% by Mar/Jun 2026: this is genuine promoter accumulation over the recent history.
+- Retail/public ownership is about 45.5%, down from roughly 48% in 2024/25.
+- Current DII ownership is only 0.08%, down substantially from 1.22% in Jun 2025. That is a negative for the “DII buying” rule, although it leaves room for future institutional accumulation.
+- ICICI Direct has current Q1 FY27 results coverage. Its report shows the earnings slowdown clearly rather than hiding it.
+
+TECHNICALS
+- RSI around 59: favourable, not overbought.
+- MACD around +8.66 on Investing.com: BUY signal.
+- ADX around 42: trend strength is meaningful.
+- StochRSI was oversold despite RSI being moderate.
+- The price is close to the lower part of the recent range and has not run up in the last six months.
+
+THESIS
+The attractive setup is “high-quality small company + no debt + cheap relative to its historical growth + stock ignored for six months + promoter accumulation + bullish MACD.” The biggest risk is that Q1 FY27 profit dropped sharply. A doubling requires earnings to recover AND valuation to expand; it should not be assumed from historical ROE alone.
+
+BUY ZONE / STOP
+Preferred accumulation: approximately Rs 850–900, but only after confirming price stability.
+Initial hard stop: Rs 805–815 on a closing basis.
+If price reaches Rs 1,050–1,100, move stop to protect capital rather than waiting for a theoretical double.
+Potential 12-month objective: Rs 1,500–1,800 only if earnings recover materially; this is an upside scenario, NOT a target guarantee.
+
+LIQUIDITY
+Recent sessions have shown several thousand shares traded; at ~Rs 880 this comfortably represents >Rs 1 lakh of traded value in a normal session, although the spread can be wide. Use limit orders.
+
+SOURCES: ICICI Direct Q1 FY27 results; Screener; Trendlyne; Upstox; Investing.com; StockAnalysis/Sharpely.
+
+
+2) KRM AYURVEDA LTD — HIGHEST EARNINGS-GROWTH CANDIDATE, BUT CASH-FLOW RISK
+Ticker: KRMAYURVED (NSE SME)
+Price around Rs 280.
+Market cap about Rs 595 Cr.
+India market-cap rank: NOT independently verified from a current all-India ranking source; market cap strongly places it outside the top 1,000, but exact rank must be checked before purchase.
+
+WHY IT IS INTERESTING
+- Q1 FY27 sales Rs 32.32 Cr vs Rs 24.67 Cr in Jun-25: roughly +31% YoY.
+- Operating profit rose to Rs 12.02 Cr and OPM reached 37.2%.
+- PAT rose to Rs 9.08 Cr from Rs 4.05 Cr: roughly +124% YoY.
+- ROCE about 35.3%; ROE about 29%.
+- P/E about 23.7; book value about Rs 54.
+- Debt was reduced to zero by FY26.
+- Promoter holding rose from 67.28% in Jan 2026 to 69.15% in Mar 2026.
+- Retail/public ownership rose dramatically from 7.84% in Sep 2025 to 23.65% in Mar 2026. This fits the user's desire for increasing retail participation, but it is not automatically bullish; rising retail can also increase volatility.
+- FII and DII holdings were meaningful at Mar-26: FII 3.86%, DII 3.34%, although both had declined from earlier levels.
+
+CASH-FLOW WARNING
+FY26 free cash flow was approximately zero and free operating cash flow remained negative. Working capital days rose sharply to about 280 and inventory days to 225. This is the single biggest reason this is not the #1 pick.
+
+TECHNICALS
+- RSI about 51.
+- MACD about +2.55: favourable.
+- Stochastic about 17 and Williams %R about -81: near oversold territory.
+- Weekly RSI around 62 and weekly MACD around +22.4 were favourable.
+- Price remains below the 52-week high of about Rs 344.
+
+THESIS
+If Q1 FY27's profit acceleration can be repeated while working capital normalises, earnings can compound quickly from a small base. This is one of the few candidates where a doubling is mathematically plausible without requiring an extreme P/E. However, the balance-sheet/cash-conversion risk means this must be treated as a speculative position.
+
+BUY ZONE / STOP
+Preferred: Rs 260–285 after confirmation.
+Hard stop: Rs 238–245 closing basis.
+If price moves above Rs 320, trail the stop aggressively.
+Upside scenario: Rs 500–600 if earnings continue to compound and the market maintains a growth multiple.
+
+LIQUIDITY
+Recent daily volume was around 33,000 shares at roughly Rs 280, comfortably above Rs 1 lakh of turnover. It is an SME stock, so execution/spreads can still be materially worse than a main-board stock.
+
+SOURCES: Screener; Moneycontrol technicals; Upstox/Choice shareholding; company announcements.
+
+
+3) GOEL CONSTRUCTION COMPANY LTD — VALUE + ORDER/PROFIT TRAJECTORY
+Ticker: 544504 / BSE
+Price around Rs 412–420.
+Market cap about Rs 595 Cr.
+India market-cap rank: ~1,833 as of 12 Aug 2026 according to GoMarketCap. This clearly satisfies the outside-top-1000 rule.
+
+FUNDAMENTALS
+- P/E about 13.1.
+- Book value about Rs 176.
+- ROCE about 33.9%.
+- ROE about 23.5%.
+- Almost debt-free.
+- FY26 revenue approximately Rs 657 Cr vs Rs 590 Cr in FY25.
+- FY26 operating profit and PAT continued to grow; FY26 PAT was about Rs 46 Cr according to Sector Alpha.
+- FY26 operating cash flow was Rs 62.8 Cr.
+- FY26 capex was about Rs 35.2 Cr, implying positive rough free cash flow of about Rs 27.6 Cr before other investing items.
+- 5-year profit CAGR was reported around 44% by Screener.
+
+OWNERSHIP
+Promoters 71.83%.
+DII 6.47% as of Mar-26, up from 6.09% in Sep-25.
+FII 2.28%, down from 2.91%.
+Public only about 19.41%.
+This is an attractive ownership structure for the user's “low retail” preference, but recent promoter buying was NOT independently verified. Therefore it fails the strict promoter-buying condition unless current insider transactions confirm it.
+
+TECHNICALS
+- RSI around 43: not overbought.
+- MACD around -12.25 but Moneycontrol's daily technical rating was outperform.
+- Stochastic about 19.6 and Williams %R about -80 indicate the stock is near an oversold zone.
+- 6-month return had been positive, so this is less “forgotten” than Jyoti.
+
+THESIS
+A low P/E, strong ROCE, low debt and positive operating cash flow give downside protection relative to many speculative small caps. The key upside driver is sustained project execution and profit growth. The stock does not need a huge valuation multiple if earnings continue rising.
+
+BUY ZONE / STOP
+Prefer Rs 390–420 only after support holds.
+Hard stop: Rs 365–375 closing basis.
+Potential upside scenario: Rs 650–800 if earnings compound and P/E expands moderately.
+
+LIQUIDITY
+Recent volume around 3,600 shares at ~Rs 420 is roughly Rs 15 lakh of traded value, well above the Rs 1 lakh requirement, but the float is small. Use limit orders.
+
+SOURCES: GoMarketCap; Screener; Moneycontrol; LiveMint; Sector Alpha; company investor-relations disclosures.
+
+
+4) UNIFIED DATA-TECH SOLUTIONS LTD — GROWTH + INSTITUTIONAL OWNERSHIP, BUT CASH CONVERSION IS THE ISSUE
+Ticker: 544406
+Price around Rs 368.
+Market cap around Rs 739 Cr.
+India market-cap rank: NOT independently verified from a current all-India ranking source; current market cap is consistent with an outside-top-1000 small-cap position, but verify the exact rank before purchase.
+
+FUNDAMENTALS
+- P/E about 17.8–18.1.
+- P/B about 5.3.
+- ROE about 34.5%.
+- ROCE about 33.6–45.3% depending on period/source.
+- ROA about 23.7%.
+- Debt/equity 0.
+- FY26 revenue about Rs 288 Cr, +30.8% YoY; PAT about Rs 40.8 Cr, +19.3%.
+- Q1 FY27 revenue grew 24.1% YoY to about Rs 106.2 Cr, with an order book around Rs 100 Cr+.
+- FY26 free cash flow remained positive at roughly Rs 1.9 Cr according to the detailed cash-flow data, but this is very small compared with reported profit.
+- Operating cash flow was only about Rs 2.1 Cr against FY26 profit around Rs 41 Cr. This is the biggest fundamental warning.
+
+OWNERSHIP
+Promoters 60.39%.
+DII 5.89% in Mar-26.
+FII 0.57%.
+Public 33.15%.
+Earlier DII ownership was 9.77%, so institutional ownership has declined. Promoter buying was not independently verified.
+
+TECHNICALS
+- RSI about 48–52: neutral and not overbought.
+- MACD about -1.24 to -1.65: currently bearish on daily timeframe.
+- 5-day SMA/EMA have started turning bullish, but 20/50/200-day averages remain overhead.
+- Monthly/weekly indicators are not clean enough to call a full bullish breakout.
+
+THESIS
+This is an earnings-growth candidate, not a pure value candidate. The market has not rewarded the growth strongly: six-month performance around +1.5% and one-year around +11%. If the order book converts into cash and cash conversion improves, the valuation can rerate. If profit continues to grow without cash generation, avoid.
+
+BUY CONDITION
+Do NOT buy simply because of the fundamentals. Wait for MACD to turn positive and price to reclaim roughly Rs 380–390 with volume.
+Potential stop after confirmation: Rs 345–350.
+Upside scenario: Rs 600–700 if earnings compound and FCF conversion improves.
+
+LIQUIDITY
+Recent volume around 23,600 shares at ~Rs 368 represents >Rs 80 lakh traded value, comfortably above the Rs 1 lakh requirement.
+
+SOURCES: ICICI Direct; Screener; Groww; Sharpely; LiveMint; Investing.com.
+
+
+5) ARROW GREENTECH LTD — CASH-RICH GREEN PRODUCTS / VALUE, BUT WAIT FOR TECHNICAL TURN
+Ticker: ARROWGREEN / BSE 516064
+Price around Rs 692.
+Market cap about Rs 1,049 Cr.
+India market-cap rank: #1,580 according to GoMarketCap on 29 Aug 2026. This satisfies the outside-top-1000 requirement.
+
+FUNDAMENTALS
+- P/E about 16.3–16.9.
+- P/B about 4.4.
+- EV/EBITDA about 10.4x current / 8.7x FY26.
+- ROE FY26 about 22.2%.
+- ROA FY26 about 15.3%.
+- ROCE FY26 about 23.5%.
+- Debt/equity about 0.01; net cash position.
+- Free cash flow positive; FY26 EV/FCF about 14.4x.
+- Promoter holding rose 64.83% to 65.65% in the latest quarter (+0.82%).
+- DII rose 0.82% to 0.99%; FII rose 0.07% to 0.20%.
+- Retail/public fell from 34.28% to 33.15%.
+- These ownership changes are unusually aligned with the user's requirements.
+
+EARNINGS WARNING
+Consolidated March 2026 sales fell 27.1% YoY and PAT fell 35.3% YoY. Therefore the low valuation is not a free lunch. The company must show a rebound in the next quarters.
+
+TECHNICALS
+- RSI about 44: not overbought.
+- StochRSI is oversold.
+- MACD about -0.21: currently bearish, not yet favourable.
+- Price is about 15–16% below the 52-week high and six-month return is roughly +39%, so it has had a meaningful recovery already.
+
+THESIS
+This is a classic “hidden value + promoter/institutional accumulation + cash-rich balance sheet” candidate. But the technical rule says WAIT. The correct action is not to catch a falling knife. Buy only if MACD turns positive and price forms a higher low.
+
+BUY CONDITION
+Wait for a bullish MACD crossover and preferably a close above Rs 710–730.
+Initial stop after confirmation: Rs 650–665.
+Potential upside scenario: Rs 1,050–1,300 if earnings recover and valuation expands.
+
+LIQUIDITY
+The stock is actively traded on NSE/BSE and comfortably clears the Rs 1 lakh session-liquidity threshold in recent trading.
+
+SOURCES: GoMarketCap; Screener; Upstox; StockAnalysis; Moneycontrol; ICICI/market data.
+
+
+REJECTED / NOT TOP-5 DESPITE ATTRACTIVE NUMBERS
+
+GANDHAR OIL REFINERY
+Fundamentally very attractive: P/E about 8.3, P/B about 1.8, EV/EBITDA about 5.8, promoter 66.6%, FII +1.13 percentage points and DII +0.93 percentage points in Jun-26, positive MACD and RSI around 54. However, its India market-cap rank is about #779 in one current ranking source, so it FAILS the user's hard “outside top 1,000” rule. It also rose strongly from the 52-week low, so it fails the desired “not already run up” characteristic.
+
+KSOLVES INDIA
+Excellent ROCE/ROE and low PE, with market cap ~Rs 639 Cr, but its overall India market-cap rank is only around #258–262 in the ET sector/general ranking, so it fails the hard outside-top-1000 rule. Promoter holding is stable, not buying, while DII is only 0.01%.
+
+SHUKRA PHARMA
+Market cap ~Rs 1,946 Cr and P/E ~57; retail ~48.7%, promoter ~51.15%. The valuation is too high and it lacks the desired risk protection.
+
+3B BLACKBIO DX
+Attractive ROCE and recent growth, but retail/public is ~54.4% and promoter only ~41%; this is not aligned with the user's ownership preference. It also lacks a strong enough promoter-accumulation signal.
+
+ONE GLOBAL SERVICE PROVIDER
+Ownership is interesting: promoter 68.4%, FII 7.72%, retail 23.87%. However daily technicals show RSI ~47 and MACD -2.08, with a strong-sell moving-average structure. It is a WAIT, not a buy.
+
+
+FINAL RANKING
+
+1. Jyoti Resins & Adhesives — BEST RISK/REWARD IF Q1 PROFIT RECOVERY APPEARS
+2. KRM Ayurveda — BEST SMALL-BASE EARNINGS GROWTH, BUT CASH FLOW IS A HARD WARNING
+3. Goel Construction — BEST VALUE + CASH FLOW + LOW RETAIL, BUT PROMOTER BUYING NEEDS CONFIRMATION
+4. Unified Data-Tech — HIGH GROWTH, BUT BUY ONLY AFTER MACD TURN AND CASH CONVERSION IMPROVES
+5. Arrow Greentech — BEST OWNERSHIP SIGNAL, BUT WAIT FOR MACD / EARNINGS RECOVERY
+
+IMPORTANT: NONE OF THESE SHOULD BE TREATED AS A “BUY NOW AT ANY PRICE”.
+
+
+STOP-LOSS POLICY
+Never widen a stop because the stock falls. If a hard stop is hit, exit or materially reduce. Re-enter only after the original thesis is re-established.
+
+For a Rs 1 lakh position, risk should normally be capped around 0.5–1.0% of total portfolio capital per trade rather than 0.5–1.0% of the position value. Small caps can gap through stops, so limit orders and smaller position sizes are preferable.
+
+PROFIT-TAKING POLICY
+A stock doubling is a scenario, not an entitlement. When a position reaches +25–35%, review the thesis. At +50%, consider taking partial profits and moving the stop to protect capital. At +75–100%, do not wait blindly for a perfect top: recover capital and let the remaining position run only while earnings and trend remain favourable.
+
+WHAT WOULD INVALIDATE THE WHOLE LIST
+- India enters a severe risk-off / recessionary regime.
+- Oil shock remains above ~$100 for an extended period.
+- Rupee weakness accelerates materially.
+- Domestic liquidity reverses sharply.
+- Small-cap index experiences forced deleveraging.
+- Any company reports accounting/cash-flow deterioration, promoter pledge, governance issue, or unexplained auditor qualification.
+
+DATA QUALITY NOTE
+Market-cap figures and technical indicators are live/near-live and can change daily. Shareholding data is normally quarterly. Some exact all-India market-cap ranks were not exposed by the accessible current sources, so I have explicitly marked those as “not independently verified” rather than inventing a rank. Under the user's capital-preservation rule, those names should be considered WATCHLIST ONLY until the exact rank is confirmed.
+
+KEY SOURCES
+- Reuters: India equity outlook, 26 Aug 2026.
+- Reuters: India GDP / macro poll, 25 Aug 2026.
+- Motilal Oswal Private Wealth / ETMarkets: Aug 2026 small/mid-cap outlook.
+- Screener.in: company financials, ratios and shareholding.
+- ICICI Direct: Jyoti Resins and Unified Data current market/quarterly data.
+- Moneycontrol: technical indicators and quarterly earnings.
+- Trendlyne: shareholding / broker-research databases.
+- Upstox / Choice: latest shareholding patterns.
+- GoMarketCap / MarketCap.company: current India market-cap ranks where available.
+- StockAnalysis / Sharpely / LiveMint / Sector Alpha: supporting ratios and cash-flow cross-checks.
+
+END OF REPORT

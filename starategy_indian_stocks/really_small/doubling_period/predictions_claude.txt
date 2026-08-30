@@ -1,0 +1,414 @@
+INDIA SMALL/MICRO-CAP SCREEN — 5 CANDIDATES FOR POTENTIAL DOUBLING IN 12 MONTHS
+Prepared: 30 August 2026 (IST) | Data pulled live from Screener.in, Trendlyne, Tickertape, Groww, MoneyWorks4Me, MarketsMojo, TipRanks and Business-Standard on this date.
+
+================================================================================
+0. READ THIS FIRST — ON "SHOULD NOT LOSE MONEY"
+================================================================================
+There is no combination of ratios, charts or ownership data that can guarantee
+a stock will not lose money — least of all a micro-cap. Small/micro-caps in
+India routinely move ±30-50% in a year on low liquidity, promoter action,
+single-order dependency, or just broad risk-off sentiment. What follows is a
+best-effort screen against YOUR stated criteria, with stop losses attached to
+every idea so downside is capped by process, not hope. Position-size small
+(these should collectively be a minority of a portfolio), use the stop losses,
+and treat "double in a year" as a possible upside scenario, not a base case.
+I am not a SEBI-registered advisor; this is not personalised investment advice.
+
+================================================================================
+1. METHODOLOGY & IMPORTANT CAVEAT ON "OUTSIDE TOP 1000 MARKET CAP"
+================================================================================
+- SEBI's official buckets only go to "large cap" (rank 1-100) and "mid cap"
+  (101-250); everything from rank 251 onward is "small cap" by regulatory
+  definition — there is no official "top 1000" cutoff published anywhere.
+- I do not have access to a single live, ranked table of all ~2,000+ actively
+  traded NSE/BSE companies by market cap, so exact rank numbers (e.g. "#1142")
+  could not be verified with certainty for each stock. What I did instead:
+    a) Pulled live BSE Smallcap-index RSI/oversold screens (Trendlyne) to get
+       today's actual price/RSI for hundreds of small-cap names.
+    b) Cross-checked each shortlisted company's market cap on Screener.in
+       (India's standard fundamental data source) and on 2-3 other trackers.
+    c) Used the well-documented fact that the Nifty Smallcap 250 index (ranks
+       ~251-500 by market cap) had a market-cap floor in the ₹4,000-5,000 cr+
+       range in 2026, and that Nifty Microcap 250 (~ranks 501-750) sits mostly
+       in the ₹1,500-4,000 cr band. Companies below ~₹1,500 cr market cap are
+       therefore very likely to be ranked well below #1000 — this is the
+       filter I applied. All 5 picks below have market caps of ₹750cr-₹1.65
+       thousand cr, i.e. a small fraction of the ~₹5,000cr+ that typically
+       marks rank ~500, so they should comfortably sit outside the top 1000.
+    d) I flag Renaissance Global and Andhra Paper as the two closest to any
+       reasonable "1000" line (₹1,150-1,650 cr) — please re-verify current
+       rank on a live terminal (Screener.in "market cap" sort, or your
+       broker's screener) before acting, since prices move daily.
+- RSI/technical values are LIVE (fetched today, 30 Aug 2026) from Trendlyne's
+  BSE Smallcap oversold screener. MACD readings were not independently
+  pulled from a live terminal for each stock (no numeric feed available to
+  me) — I've given a qualitative read based on price trend/RSI and flagged
+  this; please confirm the actual MACD line/signal-line cross on your
+  charting platform (TradingView, Kite, Trendlyne) before entry.
+- Financial ratios are the latest reported on Screener.in / Tickertape /
+  Groww as of late Aug 2026; verify against the company's latest quarterly
+  filing before trading, as one more quarter may have reported since.
+
+================================================================================
+2. THE FIVE CANDIDATES (in order of conviction)
+================================================================================
+
+--------------------------------------------------------------------------------
+PICK 1: GANESH BENZOPLAST LTD (NSE/BSE: GANESHBE)
+--------------------------------------------------------------------------------
+Business: Liquid storage terminals (chemicals/oils) at JNPT, Cochin & Goa
+ports + specialty chemicals (sodium benzoate, food preservatives, lubricant
+additives) + rail logistics.
+
+Market cap: ~₹830-860 cr (est. rank: well outside top 1000; comparable peers
+like Aegis Logistics are ~10x larger)
+CMP (30 Aug 2026): ₹96.2 | 52-week range: ₹68.4 - ₹130
+Liquidity: NSE/BSE listed, daily traded volumes comfortably support a
+₹1,00,000 order in a single session (mid-single-digit-lakh shares/day typical
+for this name — confirm live depth before placing a market order).
+
+Financials:
+- Revenue ₹433 cr, Net profit ₹72.8-73.3 cr (FY26)
+- FY26 profit grew ~93% YoY (₹73.3cr vs ₹38.1cr FY25); Q4FY26 net profit
+  swung from a loss to ₹15.3cr
+- PE ~15.7x, PB ~1.4x — reasonable, not statistically cheap but not stretched
+- ROE ~13% (3-yr avg), ROCE reasonable for asset-heavy storage business
+- No dividend paid despite profits (cash being reinvested/retained)
+- Sales growth has been slow (~9%/5yr) — this is a re-rating/margin-recovery
+  story, not a high-growth story
+
+Ownership:
+- Promoter holding 39.0% — LOW for an Indian small-cap (most quality
+  promoters hold 50-75%); this is a genuine watch-item, not a plus
+- A promoter-to-promoter transfer of ~28.6 lakh shares (Rishi/Poonam Pilani
+  to Ravi Pilani) was disclosed 26-28 Aug 2026 — this is an intra-family
+  restructuring, not an open-market sale, but it is exactly the kind of
+  disclosure worth reading in full before buying (RishiPilani, the CEO,
+  separately owns ~9% directly)
+- Promoter stake has drifted down ~3.8 percentage points over 3 years — a
+  mild negative, not a red flag on its own
+- FII/DII holding is minimal (~2%) today — genuine institutional white
+  space if profit growth is sustained, which is the bull case
+
+Technicals: RSI 37.7 (approaching but not deeply oversold), stock down from
+₹130 highs to ₹96 over recent weeks/months — has NOT run up, fits "missed by
+the market" criterion. Qualitative MACD read: price momentum has been
+negative/consolidating in recent weeks consistent with the RSI reading;
+confirm actual MACD cross on your charting terminal.
+
+Why it fits the brief: Genuine earnings inflection (profit +93% YoY), cheap
+vs. its own history, virtually unknown/uncovered by large brokerages, low
+institutional ownership with room to grow, valuation comfort at 15-16x PE
+for a business compounding profit.
+
+Key risk: Low promoter holding + a recent large intra-family share transfer
+is the single biggest thing to monitor. Also cyclical/other-income-driven
+profit (₹35cr of "other income" flagged by Screener.in) means core-business
+profit quality needs checking in the next 1-2 quarters.
+
+Suggested stop loss: ₹78 (roughly 19% below CMP, below the recent multi-month
+base and 52-week low support zone). Trim/exit if promoter holding falls
+further in the next shareholding disclosure.
+
+Sources: screener.in/company/GANESHBE, indiainfoline.com, tickertape.in,
+sharescart.com, simplywall.st (NSE:GANESHBE)
+
+--------------------------------------------------------------------------------
+PICK 2: XCHANGING SOLUTIONS LTD (NSE/BSE: XCHANGING)
+--------------------------------------------------------------------------------
+Business: IT services (insurance BPO software, banking BPO, F&A, asset-mgmt
+tech) — India, US, Singapore. Majority-owned by a UK-based promoter group
+(Xchanging Technology Services).
+
+Market cap: ~₹720-760 cr (est. rank: well outside top 1000)
+CMP (30 Aug 2026): ₹90.8 | Stock is down ~26-32% over the past year
+Liquidity: Traded on both NSE/BSE; daily value traded is modest for a
+micro-cap but has generally been enough for a ₹1,00,000 single-session
+order — check live order-book depth on the day, this is the most
+liquidity-constrained of the five picks.
+
+Financials — the standout feature is the balance sheet:
+- Revenue ₹203 cr (FY26), Net profit ₹59.4 cr — net margin ~29%, unusually
+  high for an IT services firm this size
+- FY26 profit grew ~20% YoY (₹59.5cr vs ₹49.6cr)
+- Cash & short-term investments of ~₹300 cr against a ~₹720-760cr market
+  cap — nearly 40% of the market cap is sitting in cash/investments,
+  materially cushioning downside
+- Debt/equity only ~24%, low leverage
+- PE ~12-13x (cheap for a 29% net-margin business), dividend yield ~3%
+- Weak point: 5-year revenue CAGR is roughly flat to slightly negative — this
+  is a value/cash-compounding story, not a growth story
+
+Ownership:
+- Promoter holding 75% — high and stable, zero pledging (clean)
+- DII holding: 0%. FII holding: ~0.1%. This is about as close to "zero
+  institutional ownership" as you'll find on the NSE — exactly the kind of
+  name institutions haven't discovered yet
+- Public/retail holding ~24.6% — moderate, not extreme
+
+Technicals: RSI 30.2 today — right at the oversold threshold. Stock has
+fallen from a 52-week high near ₹105 to ₹63-91 in recent months — has
+clearly NOT run up and is deep in "missing from the narrative" territory.
+Confirm MACD on your charting platform; price action suggests a
+multi-month downtrend that may be exhausting itself near current levels.
+
+Why it fits the brief: This is the cleanest "hidden gem" of the five —
+cash-rich, debt-light, high-margin, zero institutional ownership, cheap
+on PE, beaten down on price with no obvious company-specific bad news
+found in this search. The catalyst for doubling would be either a
+re-rating on discovery (DIIs/smallcase screens starting to notice the
+cash pile) or a special dividend/buyback given the cash hoard.
+
+Key risk: Flat/declining revenue — if growth doesn't return, the stock
+can stay "cheap and ignored" for a long time (a classic value trap risk).
+Also thin free float and light trading volumes mean price can gap on low
+volume news.
+
+Suggested stop loss: ₹72 (about 21% below CMP, below the recent 52-week
+low zone of ₹63-65 gives room, but ₹72 keeps risk tighter given how thin
+the stock trades — tighten further if you see volume/price break down).
+
+Sources: screener.in/company/XCHANGING, hdfcsky.com, simplywall.st
+(NSE:XCHANGING, BSE:532616), scanx.trade (promoter shareholding filing)
+
+--------------------------------------------------------------------------------
+PICK 3: OM INFRA LTD (formerly Om Metals Infraprojects; NSE: OMINFRAL)
+--------------------------------------------------------------------------------
+Business: Diversified EPC/infra conglomerate — hydro-mechanical equipment
+(gates, penstocks) for dams, hydro-power EPC, steel fabrication, plus real
+estate/hotel/entertainment side businesses. Long track record on marquee
+government hydro projects (Koldam, Teesta, Parbati, Chamera, Upper
+Krishna, Almatti, Gosikhurd, Prakasam Barrage).
+
+Market cap: ~₹800-1,240 cr depending on date of quote (very volatile stock;
+est. rank: outside top 1000)
+CMP (30 Aug 2026): ₹122.8 | 52-week range: ₹71.5 - ₹186
+Liquidity: Sufficient for a ₹1,00,000 single-session order on most days;
+this is a retail-favourite name with decent turnover, but it is also one
+of the more volatile stocks here — check spreads before a market order.
+
+Financials — genuinely mixed:
+- Revenue CAGR ~29% (5yr) — one of the strongest growth rates in this list
+- Profit CAGR ~18.5% (5yr) — also strong
+- BUT: ROE only ~2.7-4.1% (3-yr avg), ROCE ~4.6-13% depending on the
+  snapshot/period used by different data providers — capital efficiency is
+  genuinely weak and inconsistent across sources, a real flag
+- High debtor days (226 days) and contingent liabilities of ₹254 cr —
+  typical of a government-EPC business, but worth knowing
+- PE is elevated (39-55x across different snapshots) which is NOT cheap for
+  the ROE profile — this stock is priced more on order-book optimism than
+  on current earnings quality
+- Recent large order wins: ~₹200 cr (2,880 MW Dibang hydro project, EPC
+  scope) and ~₹129 cr water project — order momentum is a real positive
+  catalyst if execution follows through
+
+Ownership:
+- Promoter holding 67.05% — healthy and majority-controlled
+- Promoter stake has drifted down ~4.6 percentage points over 3 years —
+  worth monitoring, though not a large move
+- Public/DII participation data was not clearly available in this search;
+  verify current DII trend on Screener.in "Investors" tab before buying
+
+Technicals: RSI 34.7 today, stock trading well below its 52-week high of
+₹186 (currently ₹95-123 depending on exact date) — has clearly NOT been in
+favour recently, giving valuation-comfort-on-price even though PE looks
+rich on trailing earnings.
+
+Why it fits the brief: Strong revenue/order momentum in India's hydro-power
+and water-infrastructure capex cycle (a genuine macro tailwind — India is
+accelerating hydro and river-linking/water projects), share price well off
+highs, small enough to be off most institutional radars.
+
+Key risk: This is the weakest-quality balance sheet of the five on pure
+return-on-capital metrics, and the PE is not cheap. This is a bet on order-
+book execution and macro tailwinds converting into margin improvement — if
+execution disappoints, there's little valuation cushion. Treat as the
+highest-risk, highest-optionality pick of the five.
+
+Suggested stop loss: ₹98 (about 20% below CMP, below the recent multi-
+month trading range floor). Given the volatility here, consider a tighter
+mental stop and smaller position size than the other four picks.
+
+Sources: icicidirect.com, screener.in/company/OMINFRAL, tickertape.in,
+moneyworks4me.com, multibagg.ai (order-book update)
+
+--------------------------------------------------------------------------------
+PICK 4: ANDHRA PAPER LTD (NSE/BSE: ANDHRAPAP)
+--------------------------------------------------------------------------------
+Business: Writing/printing/cut-size paper and pulp manufacturer (Andhra
+Pradesh mills), part of the Bangur/International Paper–linked promoter
+group. Established, decades-old business — not a speculative micro-cap
+in terms of operating history.
+
+Market cap: ~₹1,150-1,240 cr (est. rank: likely outside top 1000, but this
+is the closest of the five to any reasonable "1000" cutoff — re-verify
+rank before acting)
+CMP (30 Aug 2026): ₹77.4 | Stock down ~20-27% over the past year, near
+multi-year lows
+Liquidity: Comfortably supports a ₹1,00,000 single-session order.
+
+Financials:
+- Revenue ₹1,701-1,702 cr (FY26), up ~10.4% YoY
+- Net profit ₹18.6-27.6 cr depending on the exact period/snapshot — profit
+  has compressed sharply from a much stronger FY23-24 (paper/pulp prices
+  were far more favourable then; as of Feb 2025 ROE was ~24% and ROCE
+  ~31% over the prior 3 years — those numbers have since fallen hard)
+- Current ROE just ~6% (3-yr trailing average, reflecting the recent
+  downturn), PE ~18x on depressed earnings
+- Company is virtually debt-free historically, with strong interest
+  coverage and a healthy current ratio — balance sheet quality is good
+  even though profitability has cooled
+- FY26 Q4: profit actually declined slightly QoQ even as revenue grew,
+  showing margin pressure (raw material/pulp costs, competitive pricing)
+  is the real story here, not a demand problem
+
+Ownership:
+- Promoter holding 72.4% — high, stable, zero pledging
+- This is the highest and cleanest promoter holding of the five picks
+
+Technicals: RSI 38.2 today; stock has clearly NOT been in favour over the
+last 6-12 months (down 20%+ and trading near multi-year lows around ₹65-80
+versus a much higher base a couple of years ago) — strong fit for the
+"valuation comfort, out of favour" criterion.
+
+Why it fits the brief: This is the classic cyclical-recovery/value play —
+strong, clean balance sheet, high promoter skin-in-the-game, beaten down
+hard on a cyclical (not structural) profit dip, in a sector (paper/
+packaging) that has genuine long-term demand tailwinds from e-commerce
+packaging and import-substitution. If pulp/paper realizations recover even
+modestly, earnings (and the stock) could re-rate sharply given how
+depressed the current profit base is.
+
+Key risk: Paper is a genuinely cyclical, commodity-like business — margins
+depend on pulp costs and Chinese/global paper dumping, both outside
+management's control. A "double" here needs the cycle to turn, which is a
+macro call, not a company-specific one.
+
+Suggested stop loss: ₹65 (about 16% below CMP, just under the recent
+52-week low zone — if this breaks, the cyclical thesis is likely wrong for
+now).
+
+Sources: screener.in/company/ANDHRAPAP, tickertape.in, moneyworks4me.com,
+groww.in, tipranks.com, tradingview.com (historical strengths note, Feb 2025)
+
+--------------------------------------------------------------------------------
+PICK 5: RENAISSANCE GLOBAL LTD (NSE: RGL, BSE: 532923)
+--------------------------------------------------------------------------------
+Business: Diamond/gems & jewellery designer-manufacturer-exporter (SEZ-based
+manufacturing, largely export-oriented to the US and other markets),
+formerly Renaissance Jewellery.
+
+Market cap: ~₹1,130-1,640 cr — this figure moved a lot across sources and
+dates in this search (likely reflects real share-price volatility this
+year); this is the LARGEST and least certain of the five on the "outside
+top 1000" test — please re-verify current rank before acting, and treat
+this as the most speculative-on-classification of the five picks.
+CMP (30 Aug 2026): ₹113.7 | 52-week high ₹147.8, has corrected ~23% off highs
+Liquidity: Comfortably supports a ₹1,00,000 single-session order.
+
+Financials:
+- Revenue ₹2,571-3,063 cr depending on period — strong growth: FY26 revenue
+  +29.3% YoY, Q4FY26 revenue +33.3% YoY (ex-bullion)
+- Net profit ₹109-130 cr range across snapshots; Q4FY26 net profit ₹32.3cr,
+  +29% YoY
+- PE ~11-15x — well below the jewellery-sector peer median of ~21-45x per
+  different data providers, i.e. this looks statistically cheap vs peers
+- PB ~0.77-0.85x — trading BELOW book value, unusual for a growing exporter
+- Actively cutting debt: reduced gross debt by ~₹123 cr in Q4FY26 alone
+  (~20% QoQ reduction) — a genuine, verifiable balance-sheet-improvement
+  catalyst
+- BUT: ROE only ~5.8-6%, ROCE ~6.6-6.9% — weak capital efficiency, "amongst
+  the weakest in the sector" per one broker note (MarketsMojo)
+- FY25 operating cash flow was reported negative (~-₹3cr) — an earnings-
+  quality flag worth checking against the FY26 cash-flow statement once
+  fully published
+- No dividend currently paid (cash going to debt reduction/growth)
+
+Ownership:
+- Promoter holding ~62%, stable, zero pledging — a promoter (Sumit Shah)
+  bought shares on the open market in June 2026 (small, ~₹47 lakh value,
+  but directionally a positive signal of insider confidence)
+- DII holding is effectively negligible (~0.1-0.14%) — again, genuine
+  institutional white space
+- FII holding modest (~4%)
+
+Technicals: RSI 34.4 today; stock down materially from its 52-week high,
+i.e. has NOT been in favour recently, fitting the "out of favour, missed"
+criterion reasonably well.
+
+Why it fits the brief: Rare combination of strong revenue growth (~29-33%
+YoY) with a statistically cheap valuation (sub-1x book, single-digit-to-
+mid-teens PE) — the market appears to be pricing this as a low-quality
+cyclical exporter rather than crediting the growth or the active debt
+paydown. If margins/ROE improve as debt comes down (less interest expense),
+this is the pick with the most straightforward re-rating path.
+
+Key risk: Weak ROE/ROCE is real and needs to keep improving, not just stay
+flat, for the re-rating case to play out. Jewellery/gems exporters are also
+exposed to gold-price volatility, US demand/tariff risk (a modest one was
+already flagged and dismissed by the company as immaterial), and currency
+moves. This is also the pick where I have the least confidence in the
+"outside top 1000" classification — verify before treating it as a true
+micro-cap allocation.
+
+Suggested stop loss: ₹96 (about 15% below CMP, below the recent
+consolidation zone).
+
+Sources: groww.in/stocks/renaissance-jewellery-ltd, screener.in/company/RGL,
+marketsmojo.com (Q4FY26 result analysis), valueresearchonline.com,
+anandrathi.com (shareholding pattern), univest.in, tipranks.com
+
+================================================================================
+3. SUMMARY TABLE
+================================================================================
+Stock              | CMP(₹) | Mkt Cap(₹cr) | RSI(14D) | PE    | ROE   | Promoter% | Stop Loss(₹)
+Ganesh Benzoplast   | 96.2   | ~845         | 37.7     | ~15.7x| ~13%  | 39.0%     | 78
+Xchanging Solutions | 90.8   | ~740         | 30.2     | ~12.5x| ~10%  | 75.0%     | 72
+Om Infra            | 122.8  | ~900         | 34.7     | ~40x+ | ~3-4% | 67.1%     | 98
+Andhra Paper        | 77.4   | ~1,180       | 38.2     | ~18x  | ~6%   | 72.4%     | 65
+Renaissance Global   | 113.7  | ~1,350       | 34.4     | ~13x  | ~6%   | 62.0%     | 96
+
+(Market cap figures are midpoints of the ranges cited above and will have
+moved since this was written — reconfirm before trading.)
+
+================================================================================
+4. MACRO BACKDROP (as context, not as a timing signal)
+================================================================================
+- India small/midcap segments underperformed large caps for much of the
+  past year (BSE Smallcap index materially lagged Sensex in the period
+  referenced by search results), which is consistent with several of
+  these names being "out of favour" rather than newly discovered.
+- A large and growing number of Indian small/microcaps are showing RSI
+  readings in the 25-40 oversold-to-neutral band as of this week (30 Aug
+  2026), suggesting broad-based small-cap weakness/consolidation rather
+  than stock-specific distress for most names on this list — this cuts
+  both ways: it can mean a sector-wide bounce is due, or that small-caps
+  remain out of favour with FIIs/DIIs for a while longer amid global
+  risk-off conditions. Track FII/DII flow data and RBI rate policy over
+  the next few months, as a rate-cut cycle or FII inflow resumption would
+  likely help exactly this kind of beaten-down small-cap basket.
+- Sector tailwinds referenced above: India's hydro/water-infra capex push
+  (helps Om Infra), e-commerce-driven packaging/paper demand and anti-
+  dumping duty environment (helps Andhra Paper), and continued US/global
+  demand for Indian gems & jewellery exports (helps Renaissance Global) —
+  these are directional tailwinds, not certainties.
+
+================================================================================
+5. HOW TO USE THIS LIST
+================================================================================
+1. Re-verify CMP, market cap, and shareholding pattern on a live terminal
+   (Screener.in, Trendlyne, or your broker's app) the day you plan to act —
+   several of these figures moved even within the sources pulled today.
+2. Confirm actual MACD line/signal on a live chart — I gave RSI directly
+   from a live pull, but MACD needs your charting platform for precision.
+3. Place the stop losses given (or your own, tighter ones) as GTT/limit
+   orders where your broker supports it, so a bad week doesn't turn into
+   a bad year.
+4. Size each position small — this is a basket of speculative, low-
+   institutional-coverage micro-caps by design (that's what "hidden gem,
+   not yet discovered" means), and several carry real balance-sheet or
+   capital-efficiency flags noted above. No single name here should be a
+   large fraction of a portfolio.
+5. Re-check quarterly results (Q2 FY27, due ~Oct-Nov 2026) before holding
+   through earnings, since a miss on any of these thin-coverage names can
+   move the stock sharply on low volume.

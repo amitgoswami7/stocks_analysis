@@ -8,8 +8,9 @@ MOST IMPORTANT RULE, SHOULD NOT LOSE MONEY
 6. Update stop loss
 
 Ownership
-1. Retail holding impact
+1. Retail holding impact, retail should be low and expected to go high
 2. DII impact
+3. Promoter should be buying also
 
 Coverage
 1. Analyse from top brokerages
@@ -22,6 +23,8 @@ Financial Ratios
 5. NPA
 7. ROA 
 8. EV/EBDITA
+Should be free cash flow positive and or expected to become.
+Should be able to generate peak profit when it is my time to sell.
 
 Sentiment
 1. Is this well known and well invested in.
@@ -31,8 +34,12 @@ Last Price action
 1. Valuation comfort should be high
 2. Should not be in favour in last 6 months
 3. Something that everyone is missing hidden gems
-4. MACD analysis must and favourable
-5. RSI analysis must and favourable
+
+Charts (it should be low, allowing for bounce back, check in monthly and weekly level)
+1. MACD analysis must and favourable, 
+2. RSI analysis must and favourable
+3. should not have run up in last few months, should not be overbought.
+4. oversold is ok.
 
 Macro
 1. Consider macro factors like regime
