@@ -1,0 +1,49 @@
+MOST IMPORTANT RULE, SHOULD NOT LOSE MONEY
+
+1. Stocks analysed should be in OUTSIDE top 1000 market cap. When doing analysis, mention the rank.
+2. Stocks should have high chances of doubling in share price in 1 year or less.
+3. Liquidity should be enough to trade 100,000 Rs in one session
+4. Indian market only
+5. Should be small cap or micro cap
+6. Update stop loss
+
+Ownership
+1. Retail holding impact
+2. DII impact
+
+Coverage
+1. Analyse from top brokerages
+
+Financial Ratios
+1. RoE
+2. RoCE
+3. PE
+4. PB
+5. NPA
+7. ROA 
+8. EV/EBDITA
+
+Sentiment
+1. Is this well known and well invested in.
+2. Narrative already played out
+
+Last Price action
+1. Valuation comfort should be high
+2. Should not be in favour in last 6 months
+3. Something that everyone is missing hidden gems
+4. MACD analysis must and favourable
+5. RSI analysis must and favourable
+
+Macro
+1. Consider macro factors like regime
+2. Which macro environment will favour these stocks
+
+Technology disruptions avoid
+
+Profit trajectory over last few quarters
+
+Pick 5 companies with best chances.
+Fetch current data from internet.
+Be thorough, put analysis and sources.
+Dont write any code
+Put in predictions.txt in same directory
